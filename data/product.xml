@@ -16,4 +16,4 @@
         <name>name 5</name>
         <price>999</price>
     </product>
-</products>
+<product id="05"><name>Apple 13</name><price>500000</price></product></products>
